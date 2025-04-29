@@ -1,35 +1,57 @@
-### Hi there 👋 It's me, Praveen Raj 
-A Frontend Web developer🎯 from India.
-
-- 👨‍💻 Frontend Engineer 
-- 📚 What do I believe? Jack of all, Master of some.
-- 📫 How to reach me: [Instagram](https://instagram.com/real_praveenraj) - [@real_praveenraj](https://instagram.com/real_praveenraj)  
-
-
-**Languages:**  
-
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></code>
-
-![Piyush's github stats](https://github-readme-stats.vercel.app/api?username=praveen-raj-r&theme=tokyonight&show_icons=true&hide=["issues"])
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=praveen-raj-r&theme=tokyonight&layout=compact)
-![](https://komarev.com/ghpvc/?username=praveen-raj-r)
-
-<h3> 🤝🏻 Connect with Me </h3>
+<h1 align="center">Hey 👋, I'm Praveen Raj</h1>
+<h3 align="center">Frontend Engineer • React Specialist • Creative Problem Solver</h3>
 
 <p align="center">
- <!-- <a href="https://www.adityavsingh.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.adityavsingh.com-blue?style=flat-square&logo=google-chrome"></a> -->
-<a href="https://www.linkedin.com/in/developer-praveen-raj/">
-  <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Praveen%20Raj-blue?style=flat-square&logo=linkedin">
-</a>
-<a href="https://www.instagram.com/real_praveenraj/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-praveenraj-blue?style=flat-square&logo=instagram"></a>
-<a href="mailto:praveen1220raj@gmail.com">
-  <img alt="Email" src="https://img.shields.io/badge/Email-praveen1220raj@gmail.com-blue?style=flat-square&logo=gmail">
-</a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&multiline=true&width=800&height=60&lines=Code.+Learn.+Build.+Repeat.;Crafting+Frontend+Experiences+with+React+%2F+Tailwind+%2F+TypeScript" alt="Typing SVG" />
 </p>
 
- <!--⭐️ From [Praveen Raj](https://github.com/praveen-raj-r)-->
+---
+
+### 🧠 About Me
+- 🛠️ Frontend Engineer with a passion for sleek UIs and user-first experiences.
+- 🖥️ Frontend Developer with 2+ years of experience building responsive and performant UIs
+- 🧠 Constantly exploring modern frontend tech: **React**, **Next.js**, **Tailwind**, **TypeScript**.
+- 🚀 Building: **Dashboards**, **Quiz Apps**, **Retool Clones**, **Finance Trackers** 
+- ⚡ Fun fact: I believe “Jack of all, master of some” beats “master of one”  
+- 🚀 Currently upskilling in **testing** and **backend basics**.
+- 💡 Believer in *Learn by building*.
+---
+
+### ⚙️ Tech I Use
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vite,redux,firebase,git" />
+</div>
+
+---
+
+### 📈 GitHub Insights
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=praveen-raj-r&theme=tokyonight&show_icons=true&hide=issues" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=praveen-raj-r&layout=compact&theme=tokyonight" width="48%"/>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=praveen-raj-r&label=Profile+Views&color=blue&style=flat-square" />
+</p>
+
+---
+
+### 🌍 Let's Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/developer-praveen-raj/">
+    <img src="https://img.shields.io/badge/LinkedIn-Praveen%20Raj-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://instagram.com/real_praveenraj">
+    <img src="https://img.shields.io/badge/Instagram-@real_praveenraj-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="mailto:praveen1220raj@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-praveen1220raj@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<!-- Crafted with ❤️ by Praveen Raj -->
