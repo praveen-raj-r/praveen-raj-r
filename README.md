@@ -49,27 +49,6 @@ Frontend Engineer • React & Next.js • Building Clean, Scalable Web Experienc
   
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=praveen-raj-r&show_icons=true&hide=issues&theme=tokyonight" 
-    width="48%" 
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=praveen-raj-r&layout=compact&theme=tokyonight" 
-    width="48%" 
-  />
-</p>
-
-<p align="center">
-  <img 
-    src="https://komarev.com/ghpvc/?username=praveen-raj-r&label=Profile+Views&color=blue&style=flat-square" 
-  />
-</p>
-
----
-
 ## 🌍 Connect With Me
 
 <p align="center">
