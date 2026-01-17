@@ -38,21 +38,15 @@ Frontend Engineer • React & Next.js • Building Clean, Scalable Web Experienc
 - Component-driven development  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,redux,vite,firebase,git" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,redux,vite,styledcomponents,jquery,bootstrap,electron,materialui" />
 </p>
 
----
+## 🛠 IDE and Tools I Use
 
-## 🚀 What I Build
-
-- 📊 **Dashboards** (analytics, admin panels)
-- 🧠 **Quiz & Learning Apps**
-- 🧾 **Finance & Expense Trackers**
-- 🧩 **Internal tools & Retool-style clones**
-- 🎨 **Reusable UI component systems**
-
-> I care about **readable code**, **consistent UI**, and **apps that scale without pain**.
-
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,git,github,figma,aws,stackoverflow,supabase,vercel,netlify,npm,prisma,discord" />
+</p>
+  
 ---
 
 ## 📈 GitHub Stats
@@ -79,11 +73,11 @@ Frontend Engineer • React & Next.js • Building Clean, Scalable Web Experienc
 ## 🌍 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/developer-praveen-raj/" target="_blank">
+  <a href="https://www.linkedin.com/in/praveenraj-sde/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Praveen%20Raj-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="https://instagram.com/real_praveenraj" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-@real_praveenraj-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  <a href="https://instagram.com/nameispraveenraj" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-@nameispraveenraj-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="mailto:praveen1220raj@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-praveen1220raj@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
